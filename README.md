@@ -1,3 +1,3 @@
-Parallel CPU, GPU prcessing - benchmark, bandwidth, bottleneck and limitation.  
+Parallel CPU, GPU processing - benchmark, bandwidth, bottleneck and limitation.  
 
 
