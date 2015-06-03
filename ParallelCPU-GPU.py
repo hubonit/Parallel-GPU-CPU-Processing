@@ -34,7 +34,7 @@ ThreadBlock = Block * Size
 
 global time_taken
 MAX = 10            #Set the Average of MAX == 10 
-MAX_ITER = 100000   #Set the maximum loopping
+MAX_ITER = 1000     #Set the maximum loopping
 #print ("Calculating %d iterations" % (MAX_ITER))
 
 ######################
