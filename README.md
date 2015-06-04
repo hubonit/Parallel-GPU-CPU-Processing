@@ -2,7 +2,7 @@ Parallel CPU, GPU processing - benchmark, bandwidth, bottleneck and limitation. 
   
 1. Numpy  
 2. Pycuda  
-3. C++ compiler and linker  
+3. Visual C++ compiler and linker  
 
 Documentation:  
 http://hubonit.com/ideas/?p=671
